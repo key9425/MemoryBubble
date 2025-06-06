@@ -1,6 +1,6 @@
 # 추억 방울
 ### SSAFY 12기 특화 프로젝트 - D201 Team 2학년 1반
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/main.gif?ref_type=heads"  height="500"/>
+<img src="img/main.gif"  height="700"/>
 
 > 가족만의 글씨체로 추억과 일상을 공유하는 디지털 가족 앨범 서비스
 
@@ -125,47 +125,47 @@
 
 ### 나만의 손글씨
 폰트 생성 요청 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/폰트생성요청.gif?ref_type=heads" /> 
+<img src="/img/폰트생성요청.gif" /> 
 <br />
 
 폰트 생성 완료 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/폰트생성완료.gif?ref_type=heads" />
+<img src="img/폰트생성완료.gif?ref_type=heads" />
 <br /><br />
 
 ### 추억 갤러리
 추억 보관함<br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/추억보관함.gif?ref_type=heads" />
+<img src="/img/추억보관함.gif?ref_type=heads" />
 
 앨범 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/앨범.gif?ref_type=heads" />
+<img src="/img/앨범.gif?ref_type=heads" />
 
 엽서<br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/엽서.gif?ref_type=heads" />
+<img src="/img/엽서.gif?ref_type=heads" />
 
 <br /><br />
 
 ### 편지
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/편지.gif?ref_type=heads" />
+<img src="img/편지.gif?ref_type=heads" />
 <br /><br />
 
 ### 방울 캘린더
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/캘린더.gif?ref_type=heads"  /> 
+<img src="img/캘린더.gif?ref_type=heads"  /> 
 <br /><br />
 
 ### 가입
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/초대코드.gif?ref_type=heads" />
+<img src="img/초대코드.gif?ref_type=heads" />
 
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/가입.gif?ref_type=heads" />
+<img src="img/가입.gif?ref_type=heads" />
 <br /><br />
 
 
 
 ### 로그인(카카오)
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/로그인.gif?ref_type=heads" />
+<img src="img/로그인.gif?ref_type=heads" />
 <br /><br />
 
 ### 로그아웃(카카오)
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/로그아웃.gif?ref_type=heads" />
+<img src="img/로그아웃.gif?ref_type=heads" />
 <br /><br />
 
 ### 블루그린 배포
@@ -227,22 +227,22 @@
 ### 기능 명세서
 [📖 기능 명세서](exec/specification.csv)
 
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/specification1.png?ref_type=heads" width="700" />
+<img src="/img/specification1.png?ref_type=heads" width="700" />
 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/specification2.png?ref_type=heads" width="700" />
+<img src="/img/specification2.png?ref_type=heads" width="700" />
 
 <br /><br />
 
 ### ERD 다이어그램
 
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/erd.png?ref_type=heads" width="700" />
+<img src="img/erd.png?ref_type=heads" width="700" />
 
 
 <br /><br />
 
 ### 시스템 아키텍처
 
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/architecture.png?ref_type=heads" width="700" />
+<img src="img/architecture.png?ref_type=heads" width="700" />
 
 
 <br /><br />
@@ -258,10 +258,10 @@
 ## ✏ 프로젝트 진행
 
 ### 프로젝트 전체 관리 방법
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/프로젝트관리방법.png?ref_type=heads" width="700" />
+<img src="img/프로젝트관리방법.png?ref_type=heads" width="700" />
 
 ### Git
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/git.gif?ref_type=heads" width="700" />
+<img src="img/git.gif?ref_type=heads" width="700" />
 
 <br />
 <br />
@@ -271,15 +271,15 @@
 
 ## 📊 모니터링 통계
 
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/모니터링.png?ref_type=heads" width="700" />
+<img src="img/모니터링.png?ref_type=heads" width="700" />
 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/모니터링2.png?ref_type=heads" width="700" />
+<img src="img/모니터링2.png?ref_type=heads" width="700" />
 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/모니터링3.png?ref_type=heads" width="700" />
+<img src="img/모니터링3.png?ref_type=heads" width="700" />
 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/모니터링4.png?ref_type=heads" width="700" />
+<img src="img/모니터링4.png?ref_type=heads" width="700" />
 <br />
-<img src="https://lab.ssafy.com/s12-ai-image-sub1/S12P21D201/-/raw/master/img/모니터링5.png?ref_type=heads" width="700" />
+<img src="img/모니터링5.png?ref_type=heads" width="700" />
 <br />
 
 <details>
@@ -377,64 +377,64 @@ QA  기간: 2025.04.04 ~ 2025.04.10 <br />
 <table>
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="제동균 프로필" />
+      <a href="https://github.com/jegyun" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/175270500?v=4" alt="제동균 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="김은영 프로필" />
+      <a href="https://github.com/key9425" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/175270534?v=4" alt="김은영 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="김미경 프로필" />
+      <a href="https://github.com/rmfosem613" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/51354302?v=4" alt="김미경 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="김민주 프로필" />
+      <a href="https://github.com/mint130" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/110026510?v=4" alt="김민주 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="정은아 프로필" />
+      <a href="https://github.com/euna-jeong20" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/78011769?v=4" alt="정은아 프로필" />
       </a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/" target="_blank">
-        <img src="" alt="구현진 프로필" />
+      <a href="https://github.com/2jin8" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/78083320?v=4" alt="구현진 프로필" />
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/" target="_blank">
+      <a href="https://github.com/jegyun" target="_blank">
         제동균<br />(Frontend & 팀장)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/" target="_blank">
+      <a href="https://github.com/key9425" target="_blank">
         김은영<br />(Frontend)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/">
+      <a href="https://github.com/rmfosem613">
         김미경<br />(Frontend)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/" target="_blank">
+      <a href="https://github.com/mint130" target="_blank">
         김민주<br />(Backend)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/" target="_blank">
+      <a href="https://github.com/euna-jeong20" target="_blank">
         정은아<br />(AI)
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/" target="_blank">
+      <a href="https://github.com/2jin8" target="_blank">
         구현진<br />(Infra)
       </a>
     </td>
